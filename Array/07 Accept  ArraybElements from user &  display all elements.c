@@ -8,7 +8,7 @@ int main()
 {
   int i = 0, values[i] ;
 
-  for(i = 0; i < size; i++)
+  for(i = 0; i < size; i++) 
   {
     printf("\nEnter Element No %d = ",i + 1);
     scanf("%d",&values[i]);
