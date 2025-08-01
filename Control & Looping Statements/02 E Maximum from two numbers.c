@@ -11,6 +11,7 @@ int main()
  (Num1 == Num2)?printf("\nGiven numbers are equal,\nplease enter other number"):(Num1 > Num2)?printf("\nNumber %d is Maximum",Num1):printf("\nNumber %d is Maximum",Num2);
 
  printf("\nThanks!!!...");
+ 
  getch();
  return 0;
 
