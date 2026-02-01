@@ -7,6 +7,7 @@ This repository contains simple, beginner-level C programs designed to help new 
 
 ### C Language
 C is a general-purpose programming language that provides low-level access to memory and is known for its performance and efficiency. It is widely used in systems programming and embedded systems.
+
 ## Features
 
 - **Educational**: These programs are great for beginners learning the syntax and basic features of C.
